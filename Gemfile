@@ -14,6 +14,7 @@ gem 'devise', '~> 3.4.1'
 group :development do
   gem 'sqlite3'
   gem 'annotate', '~> 2.6.5'
+  gem 'thin', '~> 1.6.3'
 end
 
 group :production do
