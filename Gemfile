@@ -14,3 +14,4 @@ group :doc do
 end
 
 gem 'bootstrap-generators', '~> 3.3.1'
+gem 'devise', '~> 3.4.1'
