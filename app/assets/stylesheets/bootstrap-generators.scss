@@ -21,3 +21,8 @@ input[type="radio"], input[type="checkbox"] {
   height: initial;
   margin-top: 7px;
 }
+
+#login-screen {
+  @extend .center-block;
+  float: none;
+}
